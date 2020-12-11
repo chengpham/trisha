@@ -1,0 +1,2 @@
+(this.webpackJsonptrisha=this.webpackJsonptrisha||[]).push([[0],{10:function(t,e,n){},4:function(t,e,n){"use strict";n.r(e);var s=n(2),i=(n(1),n(3)),r=n.n(i);n(10);r.a.render(Object(s.jsx)("div",{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.f4ef4e93.chunk.js.map

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trisha/static/css/main.10a2cb76.chunk.css",
+    "main.js": "/trisha/static/js/main.f4ef4e93.chunk.js",
+    "main.js.map": "/trisha/static/js/main.f4ef4e93.chunk.js.map",
+    "runtime-main.js": "/trisha/static/js/runtime-main.7d4d64a1.js",
+    "runtime-main.js.map": "/trisha/static/js/runtime-main.7d4d64a1.js.map",
+    "static/js/2.7f41da70.chunk.js": "/trisha/static/js/2.7f41da70.chunk.js",
+    "static/js/2.7f41da70.chunk.js.map": "/trisha/static/js/2.7f41da70.chunk.js.map",
+    "index.html": "/trisha/index.html",
+    "static/css/main.10a2cb76.chunk.css.map": "/trisha/static/css/main.10a2cb76.chunk.css.map",
+    "static/js/2.7f41da70.chunk.js.LICENSE.txt": "/trisha/static/js/2.7f41da70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4d64a1.js",
+    "static/js/2.7f41da70.chunk.js",
+    "static/css/main.10a2cb76.chunk.css",
+    "static/js/main.f4ef4e93.chunk.js"
+  ]
+}
